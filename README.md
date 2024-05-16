@@ -57,7 +57,7 @@
     <img src="https://laravel.com/img/logomark.min.svg" heigth="50px" width="50px"" />
   </a>
   <a href="https://symfony.com/" target="_blank" title="Simfony">
-    <img src="https://symfony.com/logos/symfony_black_03.png" heigth="45px" width="50px" />
+    <img src="https://avatars.githubusercontent.com/u/143937?s=200&v=4" heigth="45px" width="50px" />
   </a>
   <a href="https://codeigniter.com/" target="_blank" title="CodeIgniter">
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" heigth="50px" width="50px"  />
@@ -66,7 +66,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="50px" width="50px" />
   </a>
   <a href="https://nextjs.org/" target="_blank" title="NextJS">
-    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" heigth="50px" width="50px" />
+    <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" heigth="50px" width="50px" />
   </a>
   <a href="https://nestjs.com/" target="_blank" title="NestJS" >
     <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" heigth="50px" width="50px"/>
