@@ -15,7 +15,7 @@
 ## Skills
 <div>
   <a href="https://www.php.net/" title="PHP" target="_blank">
-    <img src="https://www.zettaomnis.net.br/portal/images/zost/ourproducts/php/php.png" height="40px" width="60px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" height="40px" width="60px" />
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" title="Javascript">
