@@ -78,7 +78,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth="50px" width="50px" />
   </a>
   <a href="https://www.docker.com/" title="Docker" target="_blank">
-    <img src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png" height="50px" width="50px" />
+    <img src="https://www.zadara.com/wp-content/uploads/docker.png" height="55px" width="55px" />
   </a>
 </div>
 
