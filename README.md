@@ -88,3 +88,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" heigth="80px" width="150px" />
   </a>
 </div>
+
+
+<a href="https://app.rocketseat.com.br/me/tiago-lopes"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=tiago-lopes&type=card" width="280" alt="Tiago Tavares Lopes's Rocket ID"/></a>
