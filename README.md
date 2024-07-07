@@ -42,6 +42,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="50px" width="50px" />
   </a>
 
+  <a href="https://www.docker.com/" title="Docker" target="_blank">
+    <img src="https://www.zadara.com/wp-content/uploads/docker.png" height="55px" width="55px" />
+  </a>
+
   <a href="https://www.cypress.io/" target="_blank" title="Cypress">
     <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-ovcrvspz.png" heigth="55px" width="55px" />
   </a>
@@ -68,17 +72,20 @@
   <a href="https://nextjs.org/" target="_blank" title="NextJS">
     <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" heigth="50px" width="50px" />
   </a>
+  <a href="https://astro.build" title="Astro" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*nLbfO_PdTSpeCdZQuUr8RQ.png" height="55px" width="55px" />
+  </a>
   <a href="https://nestjs.com/" target="_blank" title="NestJS" >
     <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" heigth="50px" width="50px"/>
   </a>
-  <a href="https://www.java.com/pt-BR/" target="_blank" title="Java">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" heigth="50px" width="50px" />
+  <a href="https://go.dev" target="_blank" title="Golang">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" heigth="70px" width="70px" />
   </a>
   <a href="https://www.python.org/" target="_blank" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth="50px" width="50px" />
   </a>
-  <a href="https://www.docker.com/" title="Docker" target="_blank">
-    <img src="https://www.zadara.com/wp-content/uploads/docker.png" height="55px" width="55px" />
+  <a href="https://godotengine.org/" target="_blank" title="Godot Engine">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" heigth="50px" width="50px" />
   </a>
 </div>
 
@@ -88,6 +95,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" heigth="80px" width="150px" />
   </a>
 </div>
-
-
-<a href="https://app.rocketseat.com.br/me/tiago-lopes"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=tiago-lopes&type=card" width="280" alt="Tiago Tavares Lopes's Rocket ID"/></a>
