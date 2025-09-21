@@ -2,7 +2,7 @@
 
 ## About me 📖
 
-- 👨‍💻 Backend Developer at [Troupe Tecnologia](https://troupebrasil.com.br/solucoes-digitais/).
+- 👨‍💻 PHP Developer at [Mosyle](https://mosyle.com/).
 - 👨‍🎓 Graduated in Computer Science from [Faculdade de Americana (FAM)](https://www.fam.br/).
 - 💻 I enjoy web development, mobile development, AI, automation, and technology in general.
 - 📚 I am currently studying the Tech Developer 360 postgraduate course at [Faculdade de Tecnologia Rocketseat](https://www.rocketseat.com.br/faculdade).
