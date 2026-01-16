@@ -37,11 +37,5 @@
 [![Github Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 
-## Github Status ⭐
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago0br&layout=compact&theme=onedark" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tiago0br&show_icons=true&theme=onedark" height="180em" />
-</div>
-
 ## Contact 📱
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tiago-tavares-lopes)
