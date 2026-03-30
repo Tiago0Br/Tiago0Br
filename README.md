@@ -68,3 +68,13 @@ My main stack is React, Vite, Typescript, and TailwindCSS on the frontend, and N
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiago0Br&theme=tokyo-night&hide_border=true" />
 </div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiago0Br/Tiago0Br/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tiago0Br/Tiago0Br/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Tiago0Br/Tiago0Br/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
