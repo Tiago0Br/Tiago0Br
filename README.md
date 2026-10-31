@@ -1,22 +1,23 @@
-<h2 align="center">Hey there! Tiago Lopes here! 👋</h2>
+<h2 align="center">Olá! Seja bem-vindo ao meu perfil! 👋</h2>
 
-<h3 align="center">About me 📖</h3>
+<h3 align="center">Sobre mim 📖</h3>
 
-I'm a beginner full-stack web developer, but I'm eager to learn! I have a degree in Computer Science and I'm currently pursuing a postgraduate degree in Fullstack Development and AI at [Faculdade de Tecnologia Rocketseat](https://www.rocketseat.com.br/faculdade).
+Eu sou um Desenvolvedor Fullstack em constante evolução! Sou formado em Ciência da Computação e pós-graduado em Desenvolvimento Fullstack e IA pela [Faculdade de Tecnologia Rocketseat](https://www.rocketseat.com.br/faculdade).
 
-My main stack is React, Vite, Typescript, and TailwindCSS on the frontend, and Node.js, Typescript, and Fastify (or NestJS) on the backend. However, I've used many different tools in a wide variety of projects. I'm always looking to improve my technical skills and create projects that truly help people. Let's code together! 😁
+Minha stack principal, atualmente, é: PHP no backend e Vite, Typescript, e TailwindCSS no frontend. Porém, ao longo da minha trajetória, eu já utilizei diversas ferramentas diferentes em meus projetos. Estou sempre em busca de conhecer novas ferramentas e novas formas de fazer as coisas, aprimorar minhas habilidades, criar projetos interessantes e me divertir muito no processo!
 
 ---
 
-<h3 align="center">Technologies I've used 🚀</h3>
+<h3 align="center">Tecnologias que usei e/ou estou aprendendo 🚀</h3>
 <div align="center">
 
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Javascript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
@@ -29,9 +30,7 @@ My main stack is React, Vite, Typescript, and TailwindCSS on the frontend, and N
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![NextJS](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
 [![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/pt-BR/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
 [![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://www.rabbitmq.com/)
@@ -42,7 +41,7 @@ My main stack is React, Vite, Typescript, and TailwindCSS on the frontend, and N
 
 ---
 
-<h3 align="center">Contacts 📱</h3>
+<h3 align="center">Contatos 📱</h3>
 <p align="center">
 	<a href="mailto:tiagoltavares2002@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -57,7 +56,7 @@ My main stack is React, Vite, Typescript, and TailwindCSS on the frontend, and N
 
 ---
 
-<h3 align="center">Activities ✅</h3>
+<h3 align="center">Atividades ✅</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Tiago0Br&theme=tokyonight&hide_border=true" />
